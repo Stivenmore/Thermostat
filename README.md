@@ -1,6 +1,10 @@
-# control
+# Thermostat
 
-A new Flutter project.
+## Video
+
+https://github.com/Stivenmore/Thermostat/assets/62867486/54addd63-217b-4512-af49-29805faab957
+
+
 
 ## Getting Started
 
